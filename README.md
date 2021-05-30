@@ -1,4 +1,4 @@
-## CursoMVC 🗐
+## Curso MVC 🗐
 
 Desenvolvimento de uma solution em **ASP .NET MVC** e em **ASP .NET Web API** para cadastro de produtos e suas respectivas categorias, usando o **Entity Framework** e alguns recursos como **Data Annotations** (required, display e range) e o **Code First Migrations** para atualizar de forma incremental o nosso database (**SQL Server**). 
 
